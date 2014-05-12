@@ -5,6 +5,7 @@ Android and Cocos2D-x integration scafold for testing purpouses.
 
 > What it does:
 > 
+> This is a test Cocos2D-x app that runs inside another Android App.
 > When you click the button, the Android native app writes a file on /data/data/package/files/ folder with some data on it. The Coco2D-x app that get launched will read this file and show it on a CCLabelText. This scafold also includes Backbutton implementation for killing the Cocos2D-x part of the application.
 
 Begin integration:
